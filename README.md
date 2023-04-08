@@ -46,11 +46,6 @@
 <div id="header" align="center">
   <img src="https://github.com/serega854/php_site_veterinary_clinic/blob/main/screenshots_site_for_clinic/11.PNG"/>
 </div>
-
-#### На этой странице можно добавить свою запись в бд
-<div id="header" align="center">
-  <img src="https://github.com/serega854/php_site_veterinary_clinic/blob/main/screenshots_site_for_clinic/11.PNG"/>
-</div>
 <div id="header" align="center">
   <img src="https://github.com/serega854/php_site_veterinary_clinic/blob/main/screenshots_site_for_clinic/12.PNG"/>
 </div>
